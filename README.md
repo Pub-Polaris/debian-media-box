@@ -34,6 +34,10 @@
   - YukariChiba (说明书创意与文案, [#3](https://github.com/moesoha/debian-media-box/issues/3))
   - IcesandSora (包装盒创意)
   - 内容/样式优化：david4958606 (#13), Guochengjie (#15), SolitaryDream-X (#30)
+    
+## Windows Version Staff
+
+  - 公民北极星_Official（全部设计、文本文案）[B站主页](https://space.bilibili.com/35141509)
 
 ## LICENSE
 
